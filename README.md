@@ -36,6 +36,7 @@ Each exercise will be worth 20 points and the final project/presentation will be
 
 Please make sure you arrive on time to class (we will start at 9:40 - please be in class by then). Due to the nature of the computer lab, it can be very distracting to have students trickling in after class has begun. Make sure you have a keycard with access to room 214 and please do not knock on the door to be let in after class has begun. If you are taking this class and are not a Master of City Planning student, you must sign up for a computer account and access to the 214 lab. This may require paying a fee. You can sign up in 477 Wurster Hall.
  
+
 **READINGS AND RESOURCES**
 
 There will be a reading or set of short readings required for most class sessions. These are essential for coming prepared as the lectures will proceed under the assumption that everyone has already read the assigned reading materials. Most class sessions will begin with a quick discussion of the reading material, and you will have the opportunity to ask us questions about anything you didn't understand.
