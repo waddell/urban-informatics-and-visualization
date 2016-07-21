@@ -19,7 +19,7 @@ This course is designed to provide future city planners with a toolkit of techni
 - Cleaning, manipulating, and analyzing urban data with Python’s pandas library
 - Visualizing data in Python with charts, graphs, and tables
 - Accessing public data from the web with APIs (including Twitter, Google, Census data, and the Open Data portals of cities)
-- Developing spatial indicators and mapping urban data with open source GIS tools, CartoDB, Leaflet, Tangram and ViziCities
+- Developing spatial indicators and mapping urban data using the open source desktop tools GIS package QGIS, and on the web with CartoDB, Leaflet, Tangram and ViziCities
 
 **COURSE PREREQUISITES**
 Prior coursework (such as CP 204c) and experience using a GIS is required. Students are not required to have prior programming experience, although it will be beneficial. Python is an accessible language and the course will emphasize learning by doing.  Prior or concurrent course work in statistics and data analysis (e.g. CP 204A or 204D) is encouraged as this course will not provide the theoretical foundations of statistical analysis.
