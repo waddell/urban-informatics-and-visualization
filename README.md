@@ -15,15 +15,13 @@ This course is designed to provide future city planners with a toolkit of techni
 
 **Topics to be covered include:**
 
-•	Fundamentals of programming with Python and Jupyter notebooks
-•	Cleaning, manipulating, and analyzing urban data with Python’s pandas library
-•	Using Git for source code version control and collaboration
-•	Visualizing data in Python with charts, graphs, and tables
-•	Accessing public data from the web with scraping and APIs (including Twitter, Google, Census data, and the Open Data portals of cities)
-•	Developing spatial indicators and mapping urban data with open source GIS tools, CartoDB, and Leaflet
+- Fundamentals of programming with Python and Jupyter notebooks
+- Cleaning, manipulating, and analyzing urban data with Python’s pandas library
+- Visualizing data in Python with charts, graphs, and tables
+- Accessing public data from the web with APIs (including Twitter, Google, Census data, and the Open Data portals of cities)
+- Developing spatial indicators and mapping urban data with open source GIS tools, CartoDB, Leaflet, Tangram and ViziCities
 
 **COURSE PREREQUISITES**
-
 Prior coursework (such as CP 204c) and experience using a GIS is required. Students are not required to have prior programming experience, although it will be beneficial. Python is an accessible language and the course will emphasize learning by doing.  Prior or concurrent course work in statistics and data analysis (e.g. CP 204A or 204D) is encouraged as this course will not provide the theoretical foundations of statistical analysis.
 
 This course is open to students from across campus, but priority enrollment will be given to students in the Master of City Planning program.
@@ -42,8 +40,8 @@ Please make sure you arrive on time to class (we will start at 9:40 - please be 
 There will be a reading or set of short readings required for most class sessions. These are essential for coming prepared as the lectures will proceed under the assumption that everyone has already read the assigned reading materials. Most class sessions will begin with a quick discussion of the reading material, and you will have the opportunity to ask us questions about anything you didn't understand.
 
 For the most part, the lecture notes, tutorials and examples provided on this website will provide a good foundation for the skills students will gain in thew course.  Some of the key software packages we will be using have free documentation available, and you should make extensive use of these to help you climb the learning curve.
-1.	Downey, Allen.  2013. Think Python: How to Think Like a Computer Scientist.  Green Tea Press.  Available under Files > Reading Materials, and for free from http://www.greenteapress.com/thinkpython/. This text provides a gentle overview of Python as a programming language. 
-1.	IPython Documentation: this online documentation explains what IPython is and how to use it.
-1.	McKinney, Wes. 2012. Python for Data Analysis.  O'reilly. 
+1. Downey, Allen.  2013. Think Python: How to Think Like a Computer Scientist.  Green Tea Press.  Available under Files > Reading Materials, and for free from http://www.greenteapress.com/thinkpython/. This text provides a gentle overview of Python as a programming language. 
+2. IPython Documentation: this online documentation explains what IPython is and how to use it.
+3. McKinney, Wes. 2012. Python for Data Analysis.  O'reilly. 
 
 This course requires a lot of experimentation and trial-and-error. Google is your best friend! Google your questions, Google any error messages, and if you can't find an answer, email Paul and Geoff. The key to success in this course has been repetition: keeping up on the readings, writing lots of code over and over, and stretching to figure out "what next".
