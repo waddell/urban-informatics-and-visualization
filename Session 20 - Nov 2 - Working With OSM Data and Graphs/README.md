@@ -1,4 +1,0 @@
-javascript_tutorial
-=======================
-
-A presentation on the use of OSM data and NetworkX
