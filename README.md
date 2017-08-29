@@ -42,9 +42,12 @@ There will be a reading or set of short readings required for most class session
 For the most part, the lecture notes, tutorials and examples provided on this website will provide a good foundation for the skills students will gain in thew course.  Some of the key software packages we will be using have free documentation available, and you should make extensive use of these to help you climb the learning curve.
 
 
-Downey, Allen.  2013. Think Python: How to Think Like a Computer Scientist.  Green Tea Press.  Available under Files > Reading Materials. This text provides a fairly comprehensive overview of Python as a programming language.
-IPython Documentation (Links to an external site.)Links to an external site.. 2016. This online documentation explains what IPython is and how to use it.
+Downey, Allen.  2013. Think Python: How to Think Like a Computer Scientist.  Green Tea Press.  http://greenteapress.com/wp/think-python-2e/ This text provides a fairly comprehensive overview of Python as a programming language.
+
+IPython Documentation 2017. http://ipython.readthedocs.io/en/stable/ This online documentation explains what IPython is and how to use it.
+
 McKinney, Wes. 2012. Python for Data Analysis.  O'reilly. Available under Files > Reading Materials. You may also want to access the online Documentation available in pdf (Links to an external site.)Links to an external site..
+
 This course requires a lot of experimentation and trial-and-error. Google is your best friend! Google your questions, Google any error messages, and if you can't find an answer, email Paul and Geoff. When you email us, tell us what you Googled and what you've discovered, and include screenshots and error messages. The key to success in this course has been repetition: keeping up on the readings, writing lots of code over and over, and stretching to figure out "what next".
 
 The course website is online through bcourses, accessible here: https://bcourses.berkeley.edu/courses/1462984
