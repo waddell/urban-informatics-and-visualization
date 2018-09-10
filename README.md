@@ -1,4 +1,4 @@
-# CP255: Urban Informatics and Visualization
+# Urban Informatics and Visualization
  
 University of California, Berkeley
 Department of City and Regional Planning
